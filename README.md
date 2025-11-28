@@ -6,7 +6,7 @@ Currently I've been working on [QUENDS](https://github.com/sandialabs/quends) as
 
 I love to design on Figma and have some experience with UI/UX!
 
-My Main Tech Stack is Python, React, Tailwind, CSS, HTML, JavaScript. My favorite tools for designing are Figma and Procreate!
+My Main Tech Stack is Python, React, Tailwind, CSS, HTML, JavaScript. My favorite tools for designing are Figma, Krita, and Procreate!
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
