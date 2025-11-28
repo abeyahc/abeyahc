@@ -8,7 +8,7 @@ I love to design on Figma and have some experience with UI/UX!
 
 My Main Tech Stack is Python, React, Tailwind, CSS, HTML, JavaScript. My favorite tools for designing are Figma and Procreate!
 
-## Fun Facts About Me
+### Fun Facts About Me
 - I play a bunch of instruments, such as piano, guitar, bass, ukulele, and the alto saxophone
 - I love drawing and art
 - Currently into pixel art, been using Aseprite recently haha
