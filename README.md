@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently a senior earning my Bachelors Degree in Computer Science at California Polytechnic University of San Luis Obispo!
+I'm currently a senior earning my Bachelors Degree in Computer Science at California Polytechnic University of San Luis Obispo! I transferred from San Joaquin Delta College with an Associates in Mathematics and Interdisciplinary Studies in Mathematics and Science :)
 
 Currently I've been working on [QUENDS](https://github.com/sandialabs/quends) as a Software Engineer R&D Intern at Sandia National Laboratories :)
 
