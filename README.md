@@ -18,7 +18,7 @@ My Main Tech Stack is Python, React, Tailwind, CSS, HTML, JavaScript. My favorit
 ### Fun Facts About Me
 - I play a bunch of instruments, such as piano, guitar, bass, ukulele, and the alto saxophone
 - I love drawing and art
-- Currently into pixel art, been using Aseprite recently haha
+- Currently into pixel art, been using Aseprite recently
 - Proud Filipina ✨🇵🇭 
 <!--
 **abeyahc/abeyahc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
